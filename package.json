@@ -1,0 +1,14 @@
+{
+  "name": "json-transform",
+  "version": "1.0.0",
+  "description": "test of package https://github.com/dvdln/jsonpath-object-transform",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonpath-object-transform": "^1.0.4"
+  }
+}
